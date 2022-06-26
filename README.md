@@ -1,4 +1,4 @@
-# Qintess Onboarding Gam
+# Qintess Onboarding Game
 
 **Tive o enorme prazer em desenvolver game exclusivo para Onboarding dos novos colaboradores da Qintess pelo projeto Anansi Collective.**
 
