@@ -2,7 +2,8 @@
 
 **Tive o enorme prazer em desenvolver game exclusivo para Onboarding dos novos colaboradores da Qintess pelo projeto Anansi Collective.**
 
-![qintessgame](C:\Users\re041477\Downloads\qintessgame.PNG)
+![qintessgame](https://user-images.githubusercontent.com/45408379/175829104-9562dc9d-a6ea-41a1-8c60-bacfe7e463bb.PNG)
+
 
 O projeto Anansi Collective pertence ao Ecossistema da Qintess e tem como foco a criação de uma cooperativa para construção de narrativas diferenciadas para melhorar a experiência dos clientes e usuários através de jogos, animação e tecnologias XR. 
 
